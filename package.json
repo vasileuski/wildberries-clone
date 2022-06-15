@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Hello, World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasileuski/wildberries-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasileuski/wildberries-clone/issues"
+  },
+  "homepage": "https://github.com/vasileuski/wildberries-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
